@@ -1,4 +1,22 @@
-### Hi there 👋
+### Updated 6/4/2023
+
+### What I know: 
+- HTML
+- CSS
+- Vanilla JS
+- React.JS (Basics)
+- Redux
+
+### What I'm Working on:
+- React Router V6
+- React Hooks
+- CSS (Grid)
+
+### What's Next:
+- Next.Js
+- Postgres 
+
+### 
 
 <!--
 **Cyrillo46/Cyrillo46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
