@@ -1,10 +1,10 @@
-### Updated 6/4/2023
+### Updated 7/18/2023
 
 ### What I know: 
 - HTML
 - CSS
 - Vanilla JS
-- React.JS (Basics)
+- React.JS
 - Redux
 
 ### What I'm Working on:
@@ -13,6 +13,7 @@
 - CSS (Grid)
 
 ### What's Next:
+- Meme Generator
 - Next.Js
 - Postgres 
 
