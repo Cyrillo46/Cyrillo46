@@ -1,22 +1,3 @@
-### Updated 7/18/2023
-
-### What I know: 
-- HTML
-- CSS
-- Vanilla JS
-- React.JS
-- Redux
-
-### What I'm Working on:
-- React Router V6
-- React Hooks
-- CSS (Grid)
-
-### What's Next:
-- Meme Generator
-- Next.Js
-- Postgres 
-
 ### 
 
 <!--
